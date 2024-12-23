@@ -30,7 +30,7 @@ Hello, and welcome to my GitHub profile 👋🏻
 
 - I am also interested in blogging about FOSS (Free and Open Source Software), a movement that promotes the freedom and collaboration of software development. I believe that FOSS can empower people and communities to solve their own problems. 🌍
 
-You can contact me at bay.ahmed@mail.com if you want to chat with me or collaborate on a project. I am always open to new opportunities and challenges. 🙌🏻
+You can contact me at bayahmed@proton.me if you want to chat with me or collaborate on a project. I am always open to new opportunities and challenges. 🙌🏻
 
 Thank you for visiting my GitHub profile 😊
 </br>
