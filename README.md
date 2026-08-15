@@ -1,39 +1,43 @@
+# Hi, I'm Ahmed Bay
 
+### CS50x Student | Former ALX Software Engineering Student
 
-<!--
-**itsbayahmed/itsbayahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-</br>
+I am currently studying computer science through CS50x and building my foundations in programming, problem solving, and software development.
 
-Here are some ideas to get you started:
+I was previously enrolled in the ALX Software Engineering program, where I gained exposure to C, Python, Git, Linux, Bash, and software-engineering practices. I did not complete the full program, but the experience helped shape my technical interests and learning goals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Learning
 
-### Hi there, my name is Ahmed.
-Hello, and welcome to my GitHub profile 👋🏻
+- C programming and computational thinking
+- Algorithms and problem solving
+- Python fundamentals
+- Linux and Bash scripting
+- Git and GitHub workflows
+- Web development and databases
 
-![](https://rishavanand.github.io/static/images/greetings.gif)
+## Coursework and Learning Repositories
 
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.6.0/icons/github.svg' alt='github' height='40 allign=center'>](https://github.com/itsbayahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.6.0/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/itsbayahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.6.0/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCeGlWbHS4OQRz9TGMjyST_w)
- -->
+- [ALX Higher-Level Programming](https://github.com/itsbayahmed/alx-higher_level_programming ) — Python exercises covering fundamentals, control flow, functions, and modules.
+- [ALX System Engineering & DevOps](https://github.com/itsbayahmed/alx-system_engineering-devops ) — Linux, Bash, permissions, redirections, and shell exercises.
+- [ALX Pre-Course](https://github.com/itsbayahmed/alx-pre_course ) — Introductory Git and version-control exercises.
+- [ALX Zero Day](https://github.com/itsbayahmed/alx-zero_day ) — Early software-engineering and Git exercises.
+- [CS50x Coursework](https://github.com/itsbayahmed/CS50X) — Exercises and projects from my CS50x journey.
 
-- I am a Software Engineering student at ALX Africa, a leading online learning platform for African youth. I am passionate about creating innovative solutions using technology. 💻
+## Current Goals
 
-- I am currently learning the C programming language, one of the most powerful and versatile languages in the world. I enjoy exploring its features and applications in various domains. 🚀
+- Complete my CS50x learning journey
+- Strengthen my foundations in C and Python
+- Build small projects that apply what I learn
+- Improve my problem-solving skills
+- Document my progress consistently on GitHub
 
-- I am also interested in blogging about FOSS (Free and Open Source Software), a movement that promotes the freedom and collaboration of software development. I believe that FOSS can empower people and communities to solve their own problems. 🌍
+## Connect With Me
 
-You can contact me at bayahmed@proton.me if you want to chat with me or collaborate on a project. I am always open to new opportunities and challenges. 🙌🏻
+- **Email:** [bayahmed@proton.me](mailto:bayahmed@proton.me)
+- **LinkedIn:** [bayahmed](https://www.linkedin.com/in/bayahmed/ )
+- **X:** [@BAhmed_Dev](https://x.com/BAhmed_Dev )
 
-Thank you for visiting my GitHub profile 😊
-</br>
+> Learning in public, one step at a time.
 
 
 
