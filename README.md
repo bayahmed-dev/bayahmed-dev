@@ -17,11 +17,11 @@ I was previously enrolled in the ALX Software Engineering program, where I gaine
 
 ## Coursework and Learning Repositories
 
-- [ALX Higher-Level Programming](https://github.com/itsbayahmed/alx-higher_level_programming ) — Python exercises covering fundamentals, control flow, functions, and modules.
-- [ALX System Engineering & DevOps](https://github.com/itsbayahmed/alx-system_engineering-devops ) — Linux, Bash, permissions, redirections, and shell exercises.
-- [ALX Pre-Course](https://github.com/itsbayahmed/alx-pre_course ) — Introductory Git and version-control exercises.
-- [ALX Zero Day](https://github.com/itsbayahmed/alx-zero_day ) — Early software-engineering and Git exercises.
-- [CS50x Coursework](https://github.com/itsbayahmed/CS50X) — Exercises and projects from my CS50x journey.
+- [ALX Higher-Level Programming](https://github.com/bayahmed-dev/alx-higher_level_programming ) — Python exercises covering fundamentals, control flow, functions, and modules.
+- [ALX System Engineering & DevOps](https://github.com/bayahmed-dev/alx-system_engineering-devops ) — Linux, Bash, permissions, redirections, and shell exercises.
+- [ALX Pre-Course](https://github.com/bayahmed-dev/alx-pre_course ) — Introductory Git and version-control exercises.
+- [ALX Zero Day](https://github.com/bayahmed-dev/alx-zero_day ) — Early software-engineering and Git exercises.
+- [CS50x Coursework](https://github.com/bayahmed-dev/CS50X) — Exercises and projects from my CS50x journey.
 
 ## Current Goals
 
