@@ -41,11 +41,11 @@ I was previously enrolled in the ALX Software Engineering program, where I gaine
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itsbayahmed)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bayahmed-dev)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbayahmed)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayahmed-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsbayahmed&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bayahmed-dev&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=itsbayahmed)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=bayahmed-dev)  
 
